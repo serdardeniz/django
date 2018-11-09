@@ -81,7 +81,7 @@ export LC_ALL="en_US.UTF-8"
 
 2. Örnek bir Django projesi GitHub'dan kopyalanıyor.
 ```
-git clone https://github.com/barissaslan/eventhub.git
+git clone https://github.com/serdardeniz/eventhub.git
 ```
 
 3. Proje dizinine geçme ve venv adlı Sanal Python Ortamının oluşturulması
