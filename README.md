@@ -133,6 +133,7 @@ sudo ufw allow 8000
 ```
 python manage.py runserver 0.0.0.0:8000
 # 0.0.0.0 -> sunucunun IP adresi. (sunucu kendi IP adresini bildiğinden 0.0.0.0 yazılabilir)
+```
 
 3. Tarayıcıdan test etme
 ```
